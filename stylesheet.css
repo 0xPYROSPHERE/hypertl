@@ -137,3 +137,7 @@ Dark mode
     }
 }
 
+div.main {
+    display: block;
+    margin: auto;
+}
